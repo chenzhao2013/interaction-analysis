@@ -1,0 +1,98 @@
+Lock the door when I am away.
+Turn off SpotCam Alert when SmartThings device is closed
+Turn on the lights when I get home
+Disarm SmartThings when August Lock is unlocked by a specific person
+Switch on your SmartThings device when wholesale electricity prices are low
+Turn on a ceiling fan when SmartThings detects a presence
+Switch Off SmartThings when you Leave Home
+Let SmartThings dim your room when it's too bright by closing your Somfy-powered shades
+Lock your door when leaving home network
+Turn off SpotCam alert when you are home
+Unlock your front door when you arrive home
+Turn on my lights when the system is disarmed
+Turn on your lights when you unlock your door
+Turn on SpotCam when SmartThings device is closed
+Send alert when temp too high
+Turn on Hue Lights when SmartThings detects that you've arrived home
+Log when Mobile Presence Leaves
+Switch my heating off when my windows or doors are left open
+Turn on SmartThings device when motion is detected by Aura
+Show a message on Glance Clock when SmartThings device is opened
+turn off light when door is locked
+Use SmartThings to close your Somfy-powered shades when no one is home
+Turn off your lights and lock your doors when you go to sleep
+Blink Lights when Motion Detected
+Turn on SpotCam when SmartThings device is opened
+Switch on a SmartThings device when motion is detected by SkyBell HD
+Turning AC off when SmartThing device is switched off
+Get an email when SmartThings publishes a new trigger or action
+Switch on a SmartThings device when an alert is generated
+Turn OFF your Siren / Strobe Device when NIU is Pressed
+If moisture detected, turn on light to wake me when basement floods
+Unlock your Device when NIU is Pressed
+If the front door is opened when I'm not home, turn on alarm via Dropbox
+Turn off SpotCam Alert when SmartThings device is opened
+Turn on outside lights when Skybell button is pressed
+Lock your Device when NIU is Pressed
+Turn on my Nanoleaf lights when I enter the room
+Switch your heating off when your windows or doors are left open
+Turn ON Siren / Strobe when NIU is Pressed
+Alert me via VoIP call when SmartThings Smart Home Monitor detects Intrusion
+Get notified on Orion when your door opens
+Activate a scene when the brightness of your SmartThings drops below a specified value.
+Turn off SpotCam when SmartThings device is closed
+Turn on SmartThings devices when a User arrives
+Get a phone call alert when a door is opened during sleeping hours
+Set a thermostat when SmartThings detects that someone has arrived home
+Disarm Blink with ST when everyone arrives
+Set the thermostat and turn on a light when the family is away
+Turn on a SmartThings Switch when Notion detects a door event
+Turn on SpotCam Alert when SmartThings device is closed
+Turn on SpotCam when you are away
+Switch on a Smarthings-connected fan when the humidity rises above ___.
+Turning AC on in comfort mode when SmartThing device is switched on
+Get SmartThings alerts when your sensor opens #intruder #alert
+Automatically turn on a SmartThings device when you unlock your Kevo Smart Lock
+Turns on a #WeMo Switch when presence is detected in #SmartThings
+Arm Piper when Away
+Turn on the fireplace fan when the fireplace switch it turned on.
+Turn on light when door is unlocked
+Send notification to my LaMetric Time when moisture is detected
+Turn on my lights when there is an alarm
+Turn off Lombex Lights when turning off Smartthings Device
+Log when Mobile Presence Arrives
+Launch a TaHoma scenario when presence is no longer detected.
+Get a call when you alarm is activated
+Set ecobee to home when SmartThings detects you've arrived.
+Arm Blink with ST when everyone leaves
+Turn on SpotCam Alert when SmartThings device is opened
+Start your room fans when your doors unlock
+Turn off the light when presence is no longer detected
+Call and email me when moisture is detected
+Start Sonos when I turn on an a SmartThings device
+Switch off SmartThings device when Aura changes scene to Away
+Open garage door when presence detected
+Let SmartThings brighten your room when it's too dark by opening your Somfy-powered shades
+Start Skybell video record when motion is detected
+Notify your Das Keyboard when your device is unlocked
+Turn off SpotCam when SmartThings device is opened
+Switch on Smarthings device when doorbell pressed
+Activate siren when alert is generated
+Turn on Lombex LED lights when turning on a Smartthings device
+Switch on SmartThings device when Aura changes scene to Home
+Capture a photo/GIF on Cloudio when your SmartThings device senses motion
+Ask Alexa to unlock front door when guests arrive
+E-Mail me when there is unexpected motion!
+Activate a scene when the brightness of your SmartThings rises above a specified value.
+Stop the sprinkle system when you arrive home
+Turn off SpotCam when you are home
+Turn on Light when door Unlocks
+Disarm Piper when I come home
+Get an email when a new SmartThings Applet is published
+Turn on the light when presence is detected
+Use SmartThings to open your Somfy-powered shades when you arrive home
+Turn off my lights when the system is armed
+Blink(1) whenever someone opens the door.
+Activate a scene when the temperature of your SmartThings rises above ___°
+Switch off your SmartThings device when wholesale electricity prices are high
+Turn on SpotCam alert when you are away

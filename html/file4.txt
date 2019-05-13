@@ -1,0 +1,923 @@
+  <li class="web-applet-card" id="applet-428332p" data-id="428332p"><a class="applet-card-body " style="background-color: #ff1a12" data-track-event="web.service.applet.clicked" data-track-data="{&quot;applet_id&quot;:&quot;428332p&quot;,&quot;service_id&quot;:&quot;augusthome&quot;,&quot;path&quot;:&quot;/services/smartthings/more&quot;,&quot;type&quot;:&quot;published_diy&quot;}" href="https://ifttt.com/applets/428332p-turn-off-light-when-door-is-locked"><div class="content">
+  <div class="card-top">
+    <img class="owner-logo" title="August" alt="August" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F1100957182%2Ficons%2Fon_color_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=100&h=100&auto=compress&s=aea7dfd3a791c6f64e1917f4a84be718" />
+  </div>
+
+  <span class="title">
+    turn off light when door is locked
+  </span>
+
+  <p class="author ">
+    by
+    <span>
+      <b>denkyoku</b>
+      
+    </span>
+  </p>
+</div>
+
+<div class="meta">
+    <div class="installs" aria-label="60 users">
+      <img alt="60 Users Enabled This Applet" title="60 Users Enabled This Applet" src="//web-assets.ifttt.com/assets/web/applet_card/install-2bb73963ae2198eb356f9234b83b1a1050f6b1d0eed904e53147cd6b8533f365.svg" />
+      <span>
+        60
+      </span>
+    </div>
+
+    <div class="works-with">
+  <span>works with</span>
+
+  <ul class="permissions">
+
+      <li>
+          <img title="SmartThings" alt="SmartThings" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F82%2Ficons%2Fmonochrome_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=36&h=36&auto=compress&s=f052ac208ef86380a4e70185de7194ca" />
+      </li>
+
+  </ul>
+</div>
+
+</div>
+</a></li>
+  <li class="web-applet-card" id="applet-428329p" data-id="428329p"><a class="applet-card-body " style="background-color: #ff1a12" data-track-event="web.service.applet.clicked" data-track-data="{&quot;applet_id&quot;:&quot;428329p&quot;,&quot;service_id&quot;:&quot;augusthome&quot;,&quot;path&quot;:&quot;/services/smartthings/more&quot;,&quot;type&quot;:&quot;published_diy&quot;}" href="https://ifttt.com/applets/428329p-turn-on-light-when-door-is-unlocked"><div class="content">
+  <div class="card-top">
+    <img class="owner-logo" title="August" alt="August" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F1100957182%2Ficons%2Fon_color_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=100&h=100&auto=compress&s=aea7dfd3a791c6f64e1917f4a84be718" />
+  </div>
+
+  <span class="title">
+    Turn on light when door is unlocked
+  </span>
+
+  <p class="author ">
+    by
+    <span>
+      <b>denkyoku</b>
+      
+    </span>
+  </p>
+</div>
+
+<div class="meta">
+    <div class="installs" aria-label="110 users">
+      <img alt="110 Users Enabled This Applet" title="110 Users Enabled This Applet" src="//web-assets.ifttt.com/assets/web/applet_card/install-2bb73963ae2198eb356f9234b83b1a1050f6b1d0eed904e53147cd6b8533f365.svg" />
+      <span>
+        110
+      </span>
+    </div>
+
+    <div class="works-with">
+  <span>works with</span>
+
+  <ul class="permissions">
+
+      <li>
+          <img title="SmartThings" alt="SmartThings" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F82%2Ficons%2Fmonochrome_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=36&h=36&auto=compress&s=f052ac208ef86380a4e70185de7194ca" />
+      </li>
+
+  </ul>
+</div>
+
+</div>
+</a></li>
+  <li class="web-applet-card" id="applet-383273p" data-id="383273p"><a class="applet-card-body alt-brand-color" style="background-color: #000000" data-track-event="web.service.applet.clicked" data-track-data="{&quot;applet_id&quot;:&quot;383273p&quot;,&quot;service_id&quot;:&quot;skybell&quot;,&quot;path&quot;:&quot;/services/smartthings/more&quot;,&quot;type&quot;:&quot;published_diy&quot;}" href="https://ifttt.com/applets/383273p-turn-on-outside-lights-when-skybell-button-is-pressed"><div class="content">
+  <div class="card-top">
+    <img class="owner-logo" title="SkyBell HD" alt="SkyBell HD" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F277916670%2Ficons%2Fon_color_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=100&h=100&auto=compress&s=0fc5056dbc650e8e78fe6b592827a104" />
+  </div>
+
+  <span class="title">
+    Turn on outside lights when Skybell button is pressed
+  </span>
+
+  <p class="author ">
+    by
+    <span>
+      <b>batrad</b>
+      
+    </span>
+  </p>
+</div>
+
+<div class="meta">
+    <div class="installs" aria-label="130 users">
+      <img alt="130 Users Enabled This Applet" title="130 Users Enabled This Applet" src="//web-assets.ifttt.com/assets/web/applet_card/install-2bb73963ae2198eb356f9234b83b1a1050f6b1d0eed904e53147cd6b8533f365.svg" />
+      <span>
+        130
+      </span>
+    </div>
+
+    <div class="works-with">
+  <span>works with</span>
+
+  <ul class="permissions">
+
+      <li>
+          <img title="SmartThings" alt="SmartThings" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F82%2Ficons%2Fmonochrome_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=36&h=36&auto=compress&s=f052ac208ef86380a4e70185de7194ca" />
+      </li>
+
+  </ul>
+</div>
+
+</div>
+</a></li>
+  <li class="web-applet-card" id="applet-125431p" data-id="125431p"><a class="applet-card-body " style="background-color: #1C808A" data-track-event="web.service.applet.clicked" data-track-data="{&quot;applet_id&quot;:&quot;125431p&quot;,&quot;service_id&quot;:&quot;smartthings&quot;,&quot;path&quot;:&quot;/services/smartthings/more&quot;,&quot;type&quot;:&quot;published_diy&quot;}" href="https://ifttt.com/applets/125431p-if-z-wave-door-lock-is-unlocked-then-write-a-row-to-google-doc-spreadsheet"><div class="content">
+  <div class="card-top">
+    <img class="owner-logo" title="SmartThings" alt="SmartThings" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F82%2Ficons%2Fon_color_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=100&h=100&auto=compress&s=772e117fe8b2d26c6e48b1b6740f797f" />
+  </div>
+
+  <span class="title">
+    If Z-Wave Door Lock is Unlocked then Write a row to Google Doc Spreadsheet
+  </span>
+
+  <p class="author ">
+    by
+    <span>
+      <b>nchetoora</b>
+      
+    </span>
+  </p>
+</div>
+
+<div class="meta">
+    <div class="installs" aria-label="1 Thousand users">
+      <img alt="1k Users Enabled This Applet" title="1k Users Enabled This Applet" src="//web-assets.ifttt.com/assets/web/applet_card/install-2bb73963ae2198eb356f9234b83b1a1050f6b1d0eed904e53147cd6b8533f365.svg" />
+      <span>
+        1k
+      </span>
+    </div>
+
+    <div class="works-with">
+  <span>works with</span>
+
+  <ul class="permissions">
+
+      <li>
+          <img title="Google Sheets" alt="Google Sheets" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F799977804%2Ficons%2Fmonochrome_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=36&h=36&auto=compress&s=078fc394bb7e364354162981f7955a53" />
+      </li>
+
+  </ul>
+</div>
+
+</div>
+</a></li>
+  <li class="web-applet-card" id="applet-473774p" data-id="473774p"><a class="applet-card-body " style="background-color: #00AEEF" data-track-event="web.service.applet.clicked" data-track-data="{&quot;applet_id&quot;:&quot;473774p&quot;,&quot;service_id&quot;:&quot;kevo&quot;,&quot;path&quot;:&quot;/services/smartthings/more&quot;,&quot;type&quot;:&quot;published_diy&quot;}" href="https://ifttt.com/applets/473774p-automatically-turn-on-a-smartthings-device-when-you-unlock-your-kevo-smart-lock"><div class="content">
+  <div class="card-top">
+    <img class="owner-logo" title="Kevo" alt="Kevo" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F1250034769%2Ficons%2Fon_color_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=100&h=100&auto=compress&s=dfe9e6c02d876cdbe13adacbe732568f" />
+  </div>
+
+  <span class="title">
+    Automatically turn on a SmartThings device when you unlock your Kevo Smart Lock
+  </span>
+
+  <p class="author official">
+    by
+    <span>
+      <b>Kevo</b>
+      <img alt="Verified IFTTT User" title="Verified IFTTT User" src="//web-assets.ifttt.com/assets/shared/icon-verified_service-0c4443095d83d16835a6022bcb9ab76bc51503cc8448009ae338d0addeceead5.svg" />
+    </span>
+  </p>
+</div>
+
+<div class="meta">
+    <div class="installs" aria-label="190 users">
+      <img alt="190 Users Enabled This Applet" title="190 Users Enabled This Applet" src="//web-assets.ifttt.com/assets/web/applet_card/install-2bb73963ae2198eb356f9234b83b1a1050f6b1d0eed904e53147cd6b8533f365.svg" />
+      <span>
+        190
+      </span>
+    </div>
+
+    <div class="works-with">
+  <span>works with</span>
+
+  <ul class="permissions">
+
+      <li>
+          <img title="SmartThings" alt="SmartThings" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F82%2Ficons%2Fmonochrome_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=36&h=36&auto=compress&s=f052ac208ef86380a4e70185de7194ca" />
+      </li>
+
+  </ul>
+</div>
+
+</div>
+</a></li>
+  <li class="web-applet-card" id="applet-BT9nXDWz" data-id="BT9nXDWz"><a class="applet-card-body " style="background-color: #2abcd6" data-track-event="web.service.applet.clicked" data-track-data="{&quot;applet_id&quot;:&quot;BT9nXDWz&quot;,&quot;service_id&quot;:&quot;microbot_push_for_prota&quot;,&quot;path&quot;:&quot;/services/smartthings/more&quot;,&quot;type&quot;:&quot;applet&quot;}" href="https://ifttt.com/applets/BT9nXDWz-press-it-if-switched-on"><div class="content">
+  <div class="card-top">
+    <img class="owner-logo" title="MicroBot Push for Prota" alt="MicroBot Push for Prota" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F182294813%2Ficons%2Fon_color_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=100&h=100&auto=compress&s=2fc1235fb3b39dde7cc54e5236405945" />
+  </div>
+
+  <span class="title">
+    Press It if Switched On
+  </span>
+
+  <p class="author official">
+    by
+    <span>
+      <b>MicroBot Push for Prota</b>
+      <img alt="Verified IFTTT User" title="Verified IFTTT User" src="//web-assets.ifttt.com/assets/shared/icon-verified_service-0c4443095d83d16835a6022bcb9ab76bc51503cc8448009ae338d0addeceead5.svg" />
+    </span>
+  </p>
+</div>
+
+<div class="meta">
+    <div class="installs" aria-label="4 users">
+      <img alt="4 Users Enabled This Applet" title="4 Users Enabled This Applet" src="//web-assets.ifttt.com/assets/web/applet_card/install-2bb73963ae2198eb356f9234b83b1a1050f6b1d0eed904e53147cd6b8533f365.svg" />
+      <span>
+        4
+      </span>
+    </div>
+
+    <div class="works-with">
+  <span>works with</span>
+
+  <ul class="permissions">
+
+      <li>
+          <img title="SmartThings" alt="SmartThings" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F82%2Ficons%2Fmonochrome_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=36&h=36&auto=compress&s=f052ac208ef86380a4e70185de7194ca" />
+      </li>
+
+  </ul>
+</div>
+
+</div>
+</a></li>
+  <li class="web-applet-card" id="applet-xsUN2m4x" data-id="xsUN2m4x"><a class="applet-card-body " style="background-color: #4b83af" data-track-event="web.service.applet.clicked" data-track-data="{&quot;applet_id&quot;:&quot;xsUN2m4x&quot;,&quot;service_id&quot;:&quot;powerview&quot;,&quot;path&quot;:&quot;/services/smartthings/more&quot;,&quot;type&quot;:&quot;applet&quot;}" href="https://ifttt.com/applets/xsUN2m4x-set-my-home-to-away-mode"><div class="content">
+  <div class="card-top">
+    <img class="owner-logo" title="Hunter Douglas PowerView" alt="Hunter Douglas PowerView" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F789843246%2Ficons%2Fon_color_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=100&h=100&auto=compress&s=ec47474992b9450eaa79492e3cb2e352" />
+  </div>
+
+  <span class="title">
+    Set My Home To Away Mode
+  </span>
+
+  <p class="author official">
+    by
+    <span>
+      <b>Hunter Douglas PowerView</b>
+      <img alt="Verified IFTTT User" title="Verified IFTTT User" src="//web-assets.ifttt.com/assets/shared/icon-verified_service-0c4443095d83d16835a6022bcb9ab76bc51503cc8448009ae338d0addeceead5.svg" />
+    </span>
+  </p>
+</div>
+
+<div class="meta">
+
+    <div class="works-with">
+  <span>works with</span>
+
+  <ul class="permissions">
+
+      <li>
+          <img title="SMS" alt="SMS" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F5%2Ficons%2Fmonochrome_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=36&h=36&auto=compress&s=38cd0bcd047a973a42fabdfa98e1de1a" />
+      </li>
+      <li>
+          <img title="SmartThings" alt="SmartThings" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F82%2Ficons%2Fmonochrome_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=36&h=36&auto=compress&s=f052ac208ef86380a4e70185de7194ca" />
+      </li>
+
+      <li>3+</li>
+  </ul>
+</div>
+
+</div>
+</a></li>
+  <li class="web-applet-card" id="applet-BFEB7vRZ" data-id="BFEB7vRZ"><a class="applet-card-body " style="background-color: #1c808a" data-track-event="web.service.applet.clicked" data-track-data="{&quot;applet_id&quot;:&quot;BFEB7vRZ&quot;,&quot;service_id&quot;:&quot;smartthings&quot;,&quot;path&quot;:&quot;/services/smartthings/more&quot;,&quot;type&quot;:&quot;applet&quot;}" href="https://ifttt.com/applets/BFEB7vRZ-home-night"><div class="content">
+  <div class="card-top">
+    <img class="owner-logo" title="SmartThings" alt="SmartThings" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F82%2Ficons%2Fon_color_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=100&h=100&auto=compress&s=772e117fe8b2d26c6e48b1b6740f797f" />
+  </div>
+
+  <span class="title">
+    Home @ Night
+  </span>
+
+  <p class="author ">
+    by
+    <span>
+      <b>pbnj4640</b>
+      
+    </span>
+  </p>
+</div>
+
+<div class="meta">
+    <div class="installs" aria-label="4 users">
+      <img alt="4 Users Enabled This Applet" title="4 Users Enabled This Applet" src="//web-assets.ifttt.com/assets/web/applet_card/install-2bb73963ae2198eb356f9234b83b1a1050f6b1d0eed904e53147cd6b8533f365.svg" />
+      <span>
+        4
+      </span>
+    </div>
+
+    <div class="works-with">
+  <span>works with</span>
+
+  <ul class="permissions">
+
+      <li>
+          <img title="Button widget" alt="Button widget" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F1108205771%2Ficons%2Fmonochrome_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=36&h=36&auto=compress&s=2196aba33c4ca754d86c1f870ce76501" />
+      </li>
+
+  </ul>
+</div>
+
+</div>
+</a></li>
+  <li class="web-applet-card" id="applet-Pv9ZhsVd" data-id="Pv9ZhsVd"><a class="applet-card-body " style="background-color: #001d5e" data-track-event="web.service.applet.clicked" data-track-data="{&quot;applet_id&quot;:&quot;Pv9ZhsVd&quot;,&quot;service_id&quot;:&quot;smartap_shower&quot;,&quot;path&quot;:&quot;/services/smartthings/more&quot;,&quot;type&quot;:&quot;applet&quot;}" href="https://ifttt.com/applets/Pv9ZhsVd-start-shower-on-smartthings"><div class="content">
+  <div class="card-top">
+    <img class="owner-logo" title="SmarTap Shower" alt="SmarTap Shower" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F365971793%2Ficons%2Fon_color_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=100&h=100&auto=compress&s=dda8bc5226b5b53bbda0e42dbf2de976" />
+  </div>
+
+  <span class="title">
+    Start shower on SmartThings
+  </span>
+
+  <p class="author official">
+    by
+    <span>
+      <b>SmarTap Shower</b>
+      <img alt="Verified IFTTT User" title="Verified IFTTT User" src="//web-assets.ifttt.com/assets/shared/icon-verified_service-0c4443095d83d16835a6022bcb9ab76bc51503cc8448009ae338d0addeceead5.svg" />
+    </span>
+  </p>
+</div>
+
+<div class="meta">
+    <div class="installs" aria-label="1 users">
+      <img alt="1 Users Enabled This Applet" title="1 Users Enabled This Applet" src="//web-assets.ifttt.com/assets/web/applet_card/install-2bb73963ae2198eb356f9234b83b1a1050f6b1d0eed904e53147cd6b8533f365.svg" />
+      <span>
+        1
+      </span>
+    </div>
+
+    <div class="works-with">
+  <span>works with</span>
+
+  <ul class="permissions">
+
+      <li>
+          <img title="SmartThings" alt="SmartThings" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F82%2Ficons%2Fmonochrome_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=36&h=36&auto=compress&s=f052ac208ef86380a4e70185de7194ca" />
+      </li>
+
+  </ul>
+</div>
+
+</div>
+</a></li>
+  <li class="web-applet-card" id="applet-u6NikWc8" data-id="u6NikWc8"><a class="applet-card-body " style="background-color: #0078d7" data-track-event="web.service.applet.clicked" data-track-data="{&quot;applet_id&quot;:&quot;u6NikWc8&quot;,&quot;service_id&quot;:&quot;cortana&quot;,&quot;path&quot;:&quot;/services/smartthings/more&quot;,&quot;type&quot;:&quot;applet&quot;}" href="https://ifttt.com/applets/u6NikWc8-lock-your-smartthings-device"><div class="content">
+  <div class="card-top">
+    <img class="owner-logo" title="Cortana" alt="Cortana" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F1307390024%2Ficons%2Fon_color_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=100&h=100&auto=compress&s=4038fdd20c916c93b3638a329b234ff5" />
+  </div>
+
+  <span class="title">
+    Lock your SmartThings device
+  </span>
+
+  <p class="author official">
+    by
+    <span>
+      <b>Cortana</b>
+      <img alt="Verified IFTTT User" title="Verified IFTTT User" src="//web-assets.ifttt.com/assets/shared/icon-verified_service-0c4443095d83d16835a6022bcb9ab76bc51503cc8448009ae338d0addeceead5.svg" />
+    </span>
+  </p>
+</div>
+
+<div class="meta">
+    <div class="installs" aria-label="23 users">
+      <img alt="23 Users Enabled This Applet" title="23 Users Enabled This Applet" src="//web-assets.ifttt.com/assets/web/applet_card/install-2bb73963ae2198eb356f9234b83b1a1050f6b1d0eed904e53147cd6b8533f365.svg" />
+      <span>
+        23
+      </span>
+    </div>
+
+    <div class="works-with">
+  <span>works with</span>
+
+  <ul class="permissions">
+
+      <li>
+          <img title="SmartThings" alt="SmartThings" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F82%2Ficons%2Fmonochrome_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=36&h=36&auto=compress&s=f052ac208ef86380a4e70185de7194ca" />
+      </li>
+
+  </ul>
+</div>
+
+</div>
+</a></li>
+  <li class="web-applet-card" id="applet-aTMxtFVm" data-id="aTMxtFVm"><a class="applet-card-body " style="background-color: #6325ee" data-track-event="web.service.applet.clicked" data-track-data="{&quot;applet_id&quot;:&quot;aTMxtFVm&quot;,&quot;service_id&quot;:&quot;flic&quot;,&quot;path&quot;:&quot;/services/smartthings/more&quot;,&quot;type&quot;:&quot;applet&quot;}" href="https://ifttt.com/applets/aTMxtFVm-the-ultimate-go-to-bed-button"><div class="content">
+  <div class="card-top">
+    <img class="owner-logo" title="Flic" alt="Flic" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F964585221%2Ficons%2Fon_color_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=100&h=100&auto=compress&s=2380a411fc651b9a82b7672cd6870e8a" />
+  </div>
+
+  <span class="title">
+    The Ultimate Go to Bed Button
+  </span>
+
+  <p class="author official">
+    by
+    <span>
+      <b>Flic</b>
+      <img alt="Verified IFTTT User" title="Verified IFTTT User" src="//web-assets.ifttt.com/assets/shared/icon-verified_service-0c4443095d83d16835a6022bcb9ab76bc51503cc8448009ae338d0addeceead5.svg" />
+    </span>
+  </p>
+</div>
+
+<div class="meta">
+
+    <div class="works-with">
+  <span>works with</span>
+
+  <ul class="permissions">
+
+      <li>
+          <img title="SmartThings" alt="SmartThings" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F82%2Ficons%2Fmonochrome_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=36&h=36&auto=compress&s=f052ac208ef86380a4e70185de7194ca" />
+      </li>
+      <li>
+          <img title="Nest Thermostat" alt="Nest Thermostat" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F811416297%2Ficons%2Fmonochrome_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=36&h=36&auto=compress&s=a3d785dc92a01e7e44c70822b54f0617" />
+      </li>
+
+      <li>5+</li>
+  </ul>
+</div>
+
+</div>
+</a></li>
+  <li class="web-applet-card" id="applet-SsRzZ5Ed" data-id="SsRzZ5Ed"><a class="applet-card-body " style="background-color: #0099ff" data-track-event="web.service.applet.clicked" data-track-data="{&quot;applet_id&quot;:&quot;SsRzZ5Ed&quot;,&quot;service_id&quot;:&quot;location&quot;,&quot;path&quot;:&quot;/services/smartthings/more&quot;,&quot;type&quot;:&quot;applet&quot;}" href="https://ifttt.com/applets/SsRzZ5Ed-turn-off-media"><div class="content">
+  <div class="card-top">
+    <img class="owner-logo" title="Location" alt="Location" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F941030000%2Ficons%2Fon_color_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=100&h=100&auto=compress&s=c1e46d4cb4a148c6a7fd55ccf2c5a21b" />
+  </div>
+
+  <span class="title">
+    Turn Off Media
+  </span>
+
+  <p class="author ">
+    by
+    <span>
+      <b>kimnorvard</b>
+      
+    </span>
+  </p>
+</div>
+
+<div class="meta">
+    <div class="installs" aria-label="4 users">
+      <img alt="4 Users Enabled This Applet" title="4 Users Enabled This Applet" src="//web-assets.ifttt.com/assets/web/applet_card/install-2bb73963ae2198eb356f9234b83b1a1050f6b1d0eed904e53147cd6b8533f365.svg" />
+      <span>
+        4
+      </span>
+    </div>
+
+    <div class="works-with">
+  <span>works with</span>
+
+  <ul class="permissions">
+
+      <li>
+          <img title="SmartThings" alt="SmartThings" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F82%2Ficons%2Fmonochrome_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=36&h=36&auto=compress&s=f052ac208ef86380a4e70185de7194ca" />
+      </li>
+      <li>
+          <img title="Sonos" alt="Sonos" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F1421161436%2Ficons%2Fmonochrome_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=36&h=36&auto=compress&s=b381a3afe8e32823ffeaaf18ca0c0a6c" />
+      </li>
+
+  </ul>
+</div>
+
+</div>
+</a></li>
+  <li class="web-applet-card" id="applet-wtGqhucA" data-id="wtGqhucA"><a class="applet-card-body " style="background-color: #0078d7" data-track-event="web.service.applet.clicked" data-track-data="{&quot;applet_id&quot;:&quot;wtGqhucA&quot;,&quot;service_id&quot;:&quot;cortana&quot;,&quot;path&quot;:&quot;/services/smartthings/more&quot;,&quot;type&quot;:&quot;applet&quot;}" href="https://ifttt.com/applets/wtGqhucA-unlock-your-smartthings-device"><div class="content">
+  <div class="card-top">
+    <img class="owner-logo" title="Cortana" alt="Cortana" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F1307390024%2Ficons%2Fon_color_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=100&h=100&auto=compress&s=4038fdd20c916c93b3638a329b234ff5" />
+  </div>
+
+  <span class="title">
+    Unlock your SmartThings device
+  </span>
+
+  <p class="author official">
+    by
+    <span>
+      <b>Cortana</b>
+      <img alt="Verified IFTTT User" title="Verified IFTTT User" src="//web-assets.ifttt.com/assets/shared/icon-verified_service-0c4443095d83d16835a6022bcb9ab76bc51503cc8448009ae338d0addeceead5.svg" />
+    </span>
+  </p>
+</div>
+
+<div class="meta">
+    <div class="installs" aria-label="24 users">
+      <img alt="24 Users Enabled This Applet" title="24 Users Enabled This Applet" src="//web-assets.ifttt.com/assets/web/applet_card/install-2bb73963ae2198eb356f9234b83b1a1050f6b1d0eed904e53147cd6b8533f365.svg" />
+      <span>
+        24
+      </span>
+    </div>
+
+    <div class="works-with">
+  <span>works with</span>
+
+  <ul class="permissions">
+
+      <li>
+          <img title="SmartThings" alt="SmartThings" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F82%2Ficons%2Fmonochrome_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=36&h=36&auto=compress&s=f052ac208ef86380a4e70185de7194ca" />
+      </li>
+
+  </ul>
+</div>
+
+</div>
+</a></li>
+  <li class="web-applet-card" id="applet-nUL3zeBg" data-id="nUL3zeBg"><a class="applet-card-body " style="background-color: #0099cc" data-track-event="web.service.applet.clicked" data-track-data="{&quot;applet_id&quot;:&quot;nUL3zeBg&quot;,&quot;service_id&quot;:&quot;blink&quot;,&quot;path&quot;:&quot;/services/smartthings/more&quot;,&quot;type&quot;:&quot;applet&quot;}" href="https://ifttt.com/applets/nUL3zeBg-arm-blink-when-you-lock-the-door"><div class="content">
+  <div class="card-top">
+    <img class="owner-logo" title="Blink" alt="Blink" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F2062016467%2Ficons%2Fon_color_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=100&h=100&auto=compress&s=98e86b692de1002d0a44f9e564dbce55" />
+  </div>
+
+  <span class="title">
+    Arm Blink When You Lock the Door 
+  </span>
+
+  <p class="author official">
+    by
+    <span>
+      <b>Blink</b>
+      <img alt="Verified IFTTT User" title="Verified IFTTT User" src="//web-assets.ifttt.com/assets/shared/icon-verified_service-0c4443095d83d16835a6022bcb9ab76bc51503cc8448009ae338d0addeceead5.svg" />
+    </span>
+  </p>
+</div>
+
+<div class="meta">
+    <div class="installs" aria-label="22 users">
+      <img alt="22 Users Enabled This Applet" title="22 Users Enabled This Applet" src="//web-assets.ifttt.com/assets/web/applet_card/install-2bb73963ae2198eb356f9234b83b1a1050f6b1d0eed904e53147cd6b8533f365.svg" />
+      <span>
+        22
+      </span>
+    </div>
+
+    <div class="works-with">
+  <span>works with</span>
+
+  <ul class="permissions">
+
+      <li>
+          <img title="SmartThings" alt="SmartThings" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F82%2Ficons%2Fmonochrome_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=36&h=36&auto=compress&s=f052ac208ef86380a4e70185de7194ca" />
+      </li>
+
+  </ul>
+</div>
+
+</div>
+</a></li>
+  <li class="web-applet-card" id="applet-zXU6PYHS" data-id="zXU6PYHS"><a class="applet-card-body " style="background-color: #1c808a" data-track-event="web.service.applet.clicked" data-track-data="{&quot;applet_id&quot;:&quot;zXU6PYHS&quot;,&quot;service_id&quot;:&quot;smartthings&quot;,&quot;path&quot;:&quot;/services/smartthings/more&quot;,&quot;type&quot;:&quot;applet&quot;}" href="https://ifttt.com/applets/zXU6PYHS-bond-percentahe"><div class="content">
+  <div class="card-top">
+    <img class="owner-logo" title="SmartThings" alt="SmartThings" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F82%2Ficons%2Fon_color_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=100&h=100&auto=compress&s=772e117fe8b2d26c6e48b1b6740f797f" />
+  </div>
+
+  <span class="title">
+    Bond percentahe
+  </span>
+
+  <p class="author ">
+    by
+    <span>
+      <b>rpais0214</b>
+      
+    </span>
+  </p>
+</div>
+
+<div class="meta">
+    <div class="installs" aria-label="11 users">
+      <img alt="11 Users Enabled This Applet" title="11 Users Enabled This Applet" src="//web-assets.ifttt.com/assets/web/applet_card/install-2bb73963ae2198eb356f9234b83b1a1050f6b1d0eed904e53147cd6b8533f365.svg" />
+      <span>
+        11
+      </span>
+    </div>
+
+    <div class="works-with">
+  <span>works with</span>
+
+  <ul class="permissions">
+
+      <li>
+          <img title="BOND" alt="BOND" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F2124575873%2Ficons%2Fmonochrome_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=36&h=36&auto=compress&s=75a643cff154108f00b405bc0e456693" />
+      </li>
+
+  </ul>
+</div>
+
+</div>
+</a></li>
+  <li class="web-applet-card" id="applet-p5xi3DNS" data-id="p5xi3DNS"><a class="applet-card-body " style="background-color: #00b1d2" data-track-event="web.service.applet.clicked" data-track-data="{&quot;applet_id&quot;:&quot;p5xi3DNS&quot;,&quot;service_id&quot;:&quot;spotcam&quot;,&quot;path&quot;:&quot;/services/smartthings/more&quot;,&quot;type&quot;:&quot;applet&quot;}" href="https://ifttt.com/applets/p5xi3DNS-turn-on-spotcam-when-you-are-away"><div class="content">
+  <div class="card-top">
+    <img class="owner-logo" title="SpotCam" alt="SpotCam" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F1088715593%2Ficons%2Fon_color_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=100&h=100&auto=compress&s=2c7bfe1dc1b037df9e15ba00c591a305" />
+  </div>
+
+  <span class="title">
+    Turn on SpotCam when you are away
+  </span>
+
+  <p class="author official">
+    by
+    <span>
+      <b>SpotCam</b>
+      <img alt="Verified IFTTT User" title="Verified IFTTT User" src="//web-assets.ifttt.com/assets/shared/icon-verified_service-0c4443095d83d16835a6022bcb9ab76bc51503cc8448009ae338d0addeceead5.svg" />
+    </span>
+  </p>
+</div>
+
+<div class="meta">
+
+    <div class="works-with">
+  <span>works with</span>
+
+  <ul class="permissions">
+
+      <li>
+          <img title="SmartThings" alt="SmartThings" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F82%2Ficons%2Fmonochrome_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=36&h=36&auto=compress&s=f052ac208ef86380a4e70185de7194ca" />
+      </li>
+
+  </ul>
+</div>
+
+</div>
+</a></li>
+  <li class="web-applet-card" id="applet-eq9WyX8z" data-id="eq9WyX8z"><a class="applet-card-body " style="background-color: #34afe2" data-track-event="web.service.applet.clicked" data-track-data="{&quot;applet_id&quot;:&quot;eq9WyX8z&quot;,&quot;service_id&quot;:&quot;lockitron&quot;,&quot;path&quot;:&quot;/services/smartthings/more&quot;,&quot;type&quot;:&quot;applet&quot;}" href="https://ifttt.com/applets/eq9WyX8z-lock-the-door-through-smartthings"><div class="content">
+  <div class="card-top">
+    <img class="owner-logo" title="Lockitron" alt="Lockitron" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F903344590%2Ficons%2Fon_color_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=100&h=100&auto=compress&s=422ea005053fd0d36dfdb9c0259e2512" />
+  </div>
+
+  <span class="title">
+    Lock the door through SmartThings
+  </span>
+
+  <p class="author official">
+    by
+    <span>
+      <b>Lockitron</b>
+      <img alt="Verified IFTTT User" title="Verified IFTTT User" src="//web-assets.ifttt.com/assets/shared/icon-verified_service-0c4443095d83d16835a6022bcb9ab76bc51503cc8448009ae338d0addeceead5.svg" />
+    </span>
+  </p>
+</div>
+
+<div class="meta">
+    <div class="installs" aria-label="1 users">
+      <img alt="1 Users Enabled This Applet" title="1 Users Enabled This Applet" src="//web-assets.ifttt.com/assets/web/applet_card/install-2bb73963ae2198eb356f9234b83b1a1050f6b1d0eed904e53147cd6b8533f365.svg" />
+      <span>
+        1
+      </span>
+    </div>
+
+    <div class="works-with">
+  <span>works with</span>
+
+  <ul class="permissions">
+
+      <li>
+          <img title="SmartThings" alt="SmartThings" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F82%2Ficons%2Fmonochrome_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=36&h=36&auto=compress&s=f052ac208ef86380a4e70185de7194ca" />
+      </li>
+
+  </ul>
+</div>
+
+</div>
+</a></li>
+  <li class="web-applet-card" id="applet-hvhTJjUr" data-id="hvhTJjUr"><a class="applet-card-body " style="background-color: #00b1d2" data-track-event="web.service.applet.clicked" data-track-data="{&quot;applet_id&quot;:&quot;hvhTJjUr&quot;,&quot;service_id&quot;:&quot;spotcam&quot;,&quot;path&quot;:&quot;/services/smartthings/more&quot;,&quot;type&quot;:&quot;applet&quot;}" href="https://ifttt.com/applets/hvhTJjUr-turn-off-spotcam-when-you-are-home"><div class="content">
+  <div class="card-top">
+    <img class="owner-logo" title="SpotCam" alt="SpotCam" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F1088715593%2Ficons%2Fon_color_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=100&h=100&auto=compress&s=2c7bfe1dc1b037df9e15ba00c591a305" />
+  </div>
+
+  <span class="title">
+    Turn off SpotCam when you are home
+  </span>
+
+  <p class="author official">
+    by
+    <span>
+      <b>SpotCam</b>
+      <img alt="Verified IFTTT User" title="Verified IFTTT User" src="//web-assets.ifttt.com/assets/shared/icon-verified_service-0c4443095d83d16835a6022bcb9ab76bc51503cc8448009ae338d0addeceead5.svg" />
+    </span>
+  </p>
+</div>
+
+<div class="meta">
+    <div class="installs" aria-label="1 users">
+      <img alt="1 Users Enabled This Applet" title="1 Users Enabled This Applet" src="//web-assets.ifttt.com/assets/web/applet_card/install-2bb73963ae2198eb356f9234b83b1a1050f6b1d0eed904e53147cd6b8533f365.svg" />
+      <span>
+        1
+      </span>
+    </div>
+
+    <div class="works-with">
+  <span>works with</span>
+
+  <ul class="permissions">
+
+      <li>
+          <img title="SmartThings" alt="SmartThings" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F82%2Ficons%2Fmonochrome_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=36&h=36&auto=compress&s=f052ac208ef86380a4e70185de7194ca" />
+      </li>
+
+  </ul>
+</div>
+
+</div>
+</a></li>
+  <li class="web-applet-card" id="applet-sUQnzrM6" data-id="sUQnzrM6"><a class="applet-card-body " style="background-color: #f58220" data-track-event="web.service.applet.clicked" data-track-data="{&quot;applet_id&quot;:&quot;sUQnzrM6&quot;,&quot;service_id&quot;:&quot;niu&quot;,&quot;path&quot;:&quot;/services/smartthings/more&quot;,&quot;type&quot;:&quot;applet&quot;}" href="https://ifttt.com/applets/sUQnzrM6-lock-your-device-when-niu-is-pressed"><div class="content">
+  <div class="card-top">
+    <img class="owner-logo" title="NIU" alt="NIU" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F1701151755%2Ficons%2Fon_color_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=100&h=100&auto=compress&s=a8f0179085cb4533da6180689b3de663" />
+  </div>
+
+  <span class="title">
+    Lock your Device when NIU is Pressed
+  </span>
+
+  <p class="author official">
+    by
+    <span>
+      <b>NIU</b>
+      <img alt="Verified IFTTT User" title="Verified IFTTT User" src="//web-assets.ifttt.com/assets/shared/icon-verified_service-0c4443095d83d16835a6022bcb9ab76bc51503cc8448009ae338d0addeceead5.svg" />
+    </span>
+  </p>
+</div>
+
+<div class="meta">
+
+    <div class="works-with">
+  <span>works with</span>
+
+  <ul class="permissions">
+
+      <li>
+          <img title="SmartThings" alt="SmartThings" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F82%2Ficons%2Fmonochrome_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=36&h=36&auto=compress&s=f052ac208ef86380a4e70185de7194ca" />
+      </li>
+
+  </ul>
+</div>
+
+</div>
+</a></li>
+  <li class="web-applet-card" id="applet-LYxCTXr8" data-id="LYxCTXr8"><a class="applet-card-body " style="background-color: #f58220" data-track-event="web.service.applet.clicked" data-track-data="{&quot;applet_id&quot;:&quot;LYxCTXr8&quot;,&quot;service_id&quot;:&quot;niu&quot;,&quot;path&quot;:&quot;/services/smartthings/more&quot;,&quot;type&quot;:&quot;applet&quot;}" href="https://ifttt.com/applets/LYxCTXr8-unlock-your-device-when-niu-is-pressed"><div class="content">
+  <div class="card-top">
+    <img class="owner-logo" title="NIU" alt="NIU" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F1701151755%2Ficons%2Fon_color_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=100&h=100&auto=compress&s=a8f0179085cb4533da6180689b3de663" />
+  </div>
+
+  <span class="title">
+    Unlock your Device when NIU is Pressed
+  </span>
+
+  <p class="author official">
+    by
+    <span>
+      <b>NIU</b>
+      <img alt="Verified IFTTT User" title="Verified IFTTT User" src="//web-assets.ifttt.com/assets/shared/icon-verified_service-0c4443095d83d16835a6022bcb9ab76bc51503cc8448009ae338d0addeceead5.svg" />
+    </span>
+  </p>
+</div>
+
+<div class="meta">
+
+    <div class="works-with">
+  <span>works with</span>
+
+  <ul class="permissions">
+
+      <li>
+          <img title="SmartThings" alt="SmartThings" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F82%2Ficons%2Fmonochrome_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=36&h=36&auto=compress&s=f052ac208ef86380a4e70185de7194ca" />
+      </li>
+
+  </ul>
+</div>
+
+</div>
+</a></li>
+  <li class="web-applet-card" id="applet-HMdVP2ZJ" data-id="HMdVP2ZJ"><a class="applet-card-body " style="background-color: #1f211f" data-track-event="web.service.applet.clicked" data-track-data="{&quot;applet_id&quot;:&quot;HMdVP2ZJ&quot;,&quot;service_id&quot;:&quot;ispy_agent&quot;,&quot;path&quot;:&quot;/services/smartthings/more&quot;,&quot;type&quot;:&quot;applet&quot;}" href="https://ifttt.com/applets/HMdVP2ZJ-activate-siren-when-alert-is-generated"><div class="content">
+  <div class="card-top">
+    <img class="owner-logo" title="iSpy Agent" alt="iSpy Agent" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F348097909%2Ficons%2Fon_color_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=100&h=100&auto=compress&s=5e513d97561acecb821bbe50c72dc9dd" />
+  </div>
+
+  <span class="title">
+    Activate siren when alert is generated
+  </span>
+
+  <p class="author official">
+    by
+    <span>
+      <b>iSpy Agent</b>
+      <img alt="Verified IFTTT User" title="Verified IFTTT User" src="//web-assets.ifttt.com/assets/shared/icon-verified_service-0c4443095d83d16835a6022bcb9ab76bc51503cc8448009ae338d0addeceead5.svg" />
+    </span>
+  </p>
+</div>
+
+<div class="meta">
+
+    <div class="works-with">
+  <span>works with</span>
+
+  <ul class="permissions">
+
+      <li>
+          <img title="SmartThings" alt="SmartThings" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F82%2Ficons%2Fmonochrome_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=36&h=36&auto=compress&s=f052ac208ef86380a4e70185de7194ca" />
+      </li>
+
+  </ul>
+</div>
+
+</div>
+</a></li>
+  <li class="web-applet-card" id="applet-aLwFYDc4" data-id="aLwFYDc4"><a class="applet-card-body " style="background-color: #0078d7" data-track-event="web.service.applet.clicked" data-track-data="{&quot;applet_id&quot;:&quot;aLwFYDc4&quot;,&quot;service_id&quot;:&quot;cortana&quot;,&quot;path&quot;:&quot;/services/smartthings/more&quot;,&quot;type&quot;:&quot;applet&quot;}" href="https://ifttt.com/applets/aLwFYDc4-activate-your-smartthings-siren-strobe"><div class="content">
+  <div class="card-top">
+    <img class="owner-logo" title="Cortana" alt="Cortana" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F1307390024%2Ficons%2Fon_color_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=100&h=100&auto=compress&s=4038fdd20c916c93b3638a329b234ff5" />
+  </div>
+
+  <span class="title">
+    Activate your SmartThings siren/strobe
+  </span>
+
+  <p class="author official">
+    by
+    <span>
+      <b>Cortana</b>
+      <img alt="Verified IFTTT User" title="Verified IFTTT User" src="//web-assets.ifttt.com/assets/shared/icon-verified_service-0c4443095d83d16835a6022bcb9ab76bc51503cc8448009ae338d0addeceead5.svg" />
+    </span>
+  </p>
+</div>
+
+<div class="meta">
+    <div class="installs" aria-label="1 users">
+      <img alt="1 Users Enabled This Applet" title="1 Users Enabled This Applet" src="//web-assets.ifttt.com/assets/web/applet_card/install-2bb73963ae2198eb356f9234b83b1a1050f6b1d0eed904e53147cd6b8533f365.svg" />
+      <span>
+        1
+      </span>
+    </div>
+
+    <div class="works-with">
+  <span>works with</span>
+
+  <ul class="permissions">
+
+      <li>
+          <img title="SmartThings" alt="SmartThings" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F82%2Ficons%2Fmonochrome_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=36&h=36&auto=compress&s=f052ac208ef86380a4e70185de7194ca" />
+      </li>
+
+  </ul>
+</div>
+
+</div>
+</a></li>
+  <li class="web-applet-card" id="applet-bidMGsib" data-id="bidMGsib"><a class="applet-card-body " style="background-color: #00b1d2" data-track-event="web.service.applet.clicked" data-track-data="{&quot;applet_id&quot;:&quot;bidMGsib&quot;,&quot;service_id&quot;:&quot;spotcam&quot;,&quot;path&quot;:&quot;/services/smartthings/more&quot;,&quot;type&quot;:&quot;applet&quot;}" href="https://ifttt.com/applets/bidMGsib-turn-on-spotcam-alert-when-you-are-away"><div class="content">
+  <div class="card-top">
+    <img class="owner-logo" title="SpotCam" alt="SpotCam" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F1088715593%2Ficons%2Fon_color_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=100&h=100&auto=compress&s=2c7bfe1dc1b037df9e15ba00c591a305" />
+  </div>
+
+  <span class="title">
+    Turn on SpotCam alert when you are away
+  </span>
+
+  <p class="author official">
+    by
+    <span>
+      <b>SpotCam</b>
+      <img alt="Verified IFTTT User" title="Verified IFTTT User" src="//web-assets.ifttt.com/assets/shared/icon-verified_service-0c4443095d83d16835a6022bcb9ab76bc51503cc8448009ae338d0addeceead5.svg" />
+    </span>
+  </p>
+</div>
+
+<div class="meta">
+
+    <div class="works-with">
+  <span>works with</span>
+
+  <ul class="permissions">
+
+      <li>
+          <img title="SmartThings" alt="SmartThings" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F82%2Ficons%2Fmonochrome_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=36&h=36&auto=compress&s=f052ac208ef86380a4e70185de7194ca" />
+      </li>
+
+  </ul>
+</div>
+
+</div>
+</a></li>
+  <li class="web-applet-card" id="applet-j6RtfJTk" data-id="j6RtfJTk"><a class="applet-card-body " style="background-color: #003640" data-track-event="web.service.applet.clicked" data-track-data="{&quot;applet_id&quot;:&quot;j6RtfJTk&quot;,&quot;service_id&quot;:&quot;uplinkremote&quot;,&quot;path&quot;:&quot;/services/smartthings/more&quot;,&quot;type&quot;:&quot;applet&quot;}" href="https://ifttt.com/applets/j6RtfJTk-turn-on-my-lights-when-there-is-an-alarm"><div class="content">
+  <div class="card-top">
+    <img class="owner-logo" title="Uplink Remote" alt="Uplink Remote" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F1161020803%2Ficons%2Fon_color_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=100&h=100&auto=compress&s=523dfa6d7776bcf5607b2fd5c09fbf7c" />
+  </div>
+
+  <span class="title">
+    Turn on my lights when there is an alarm
+  </span>
+
+  <p class="author official">
+    by
+    <span>
+      <b>Uplink Remote</b>
+      <img alt="Verified IFTTT User" title="Verified IFTTT User" src="//web-assets.ifttt.com/assets/shared/icon-verified_service-0c4443095d83d16835a6022bcb9ab76bc51503cc8448009ae338d0addeceead5.svg" />
+    </span>
+  </p>
+</div>
+
+<div class="meta">
+
+    <div class="works-with">
+  <span>works with</span>
+
+  <ul class="permissions">
+
+      <li>
+          <img title="SmartThings" alt="SmartThings" src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F82%2Ficons%2Fmonochrome_large.png%3Fversion%3D0?ixlib=rails-2.1.3&w=36&h=36&auto=compress&s=f052ac208ef86380a4e70185de7194ca" />
+      </li>
+
+  </ul>
+</div>
+
+</div>
+</a></li>

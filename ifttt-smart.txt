@@ -1,0 +1,250 @@
+Switch my heating off when my windows or doors are left open
+Switch on SmartThings device when Aura changes scene to Home
+SmartThings sensor detectes presence, then turn on SwitchBot
+Launch a TaHoma scenario when presence is no longer detected.
+Switch off SmartThings device when Aura changes scene to Away
+Turn on a SmartThings Switch when Notion detects a door event
+Turn off your lights and lock your doors when you go to sleep
+Set the thermostat and turn on a light when the family is away
+If Key Fob detected deactivate Alarm
+Send notification to my LaMetric Time when moisture is detected
+Switch your heating off when your windows or doors are left open
+Show a message on Glance Clock when SmartThings device is opened
+Turning AC on in comfort mode when SmartThing device is switched on
+Strobe my SmartThings Siren, When Chiekoo Doorbell Button is Pressed
+Lock your door when leaving home network
+Use SmartThings to open your Somfy-powered shades when you arrive home
+Use SmartThings to close your Somfy-powered shades when no one is home
+Switch on a Smarthings-connected fan when the humidity rises above ___.
+Set a thermostat when SmartThings detects that someone has arrived home
+Switch On My SmartThings Device, When Chiekoo Doorbell Button is Pressed
+Capture a photo/GIF on Cloudio when your SmartThings device senses motion
+Activate a scene when the temperature of your SmartThings rises above ___°
+Switch on your SmartThings device when wholesale electricity prices are low
+Turn on Home
+turn off light when door is locked
+Turn on light when door is unlocked
+Turn on outside lights when Skybell button is pressed
+If Z-Wave Door Lock is Unlocked then Write a row to Google Doc Spreadsheet
+Automatically turn on a SmartThings device when you unlock your Kevo Smart Lock
+Press It if Switched On
+Set My Home To Away Mode
+Home @ Night
+Start shower on SmartThings
+Lock your SmartThings device
+The Ultimate Go to Bed Button
+Turn Off Media
+Unlock your SmartThings device
+Arm Blink When You Lock the Door
+Bond percentahe
+Turn on SpotCam when you are away
+Lock the door through SmartThings
+Turn off SpotCam when you are home
+Lock your Device when NIU is Pressed
+Unlock your Device when NIU is Pressed
+Activate siren when alert is generated
+Activate your SmartThings siren/strobe
+Turn on SpotCam alert when you are away
+Turn on my lights when there is an alarm
+Get an email when SmartThings publishes a new trigger or action
+Get an email when a new SmartThings Applet is published
+Get a phone call alert when a door is opened during sleeping hours
+Turn off a SmartThings device at sunrise
+Tell Alexa to lock your door
+Turn on a SmartThings device with one tap
+Turn off a SmartThings device with one tap
+Unlock a SmartThings lock by voice
+Lock a SmartThings device with your voice
+Turn on a SmartThings light by voice
+Get a phone call if SmartThings detects moisture
+Turn off SpotCam when SmartThings device is opened
+Turn off SpotCam when SmartThings device is closed
+Lock the door when I am away.
+Activate power saving on your Nanoleaf Light Panels
+Turn Off Media and Lights
+Retrieve Air Quality and turn on a SmartThings device
+Notify your Das Keyboard when your device is unlocked
+Turning AC off when SmartThing device is switched off
+Turn off the light when presence is no longer detected
+Run My Shades When a SmartThings Device is Switched On
+Run My Shades When a SmartThings Device is Switched Off
+Turn OFF your Siren / Strobe Device when NIU is Pressed
+Turn on SpotCam Alert when SmartThings device is closed
+Turn on SpotCam Alert when SmartThings device is opened
+Turn off SpotCam Alert when SmartThings device is opened
+Turn off SpotCam Alert when SmartThings device is closed
+Disarm SmartThings when August Lock is unlocked by a specific person
+Switch on a SmartThings device when an alert is generated
+Use A SmartThings Device To Operate Hunter Douglas Shades
+Turn on a ceiling fan when SmartThings detects a presence
+Turn on a ceiling fan when SmartThings detects a presence
+Turn on a ceiling fan when SmartThings detects a presence
+Turn on Hue Lights when SmartThings detects that you've arrived home
+Turn on SmartThings device when motion is detected by Aura
+Blink Lights when Motion Detected
+Harmony to wemo via SmartThings ON
+Rainy?  Turn on my outside lights!
+Harmony to wemo via SmartThings OFF
+Open garage door when presence detected
+Icy Weather Alert for Samsung SmartThings
+Blink(1) whenever someone opens the door.
+Turn on TV with Echo SmartThings & Harmony
+If device (door) is unlocked, then send SMS
+If FS20Z is switched on, then turn FS20Z off.
+Stop the sprinkle system when you arrive home
+Turn off SmartThings light at 11pm on weekdays.
+Start Skybell video record when motion is detected
+Use this to automatically lock your door at a time of day.
+Use SmartThings motion sensors to trigger Homeboy video recording
+Turns on a #WeMo Switch when presence is detected in #SmartThings
+Turn on the fireplace fan when the fireplace switch it turned on.
+Z-Wave Door Lock is Locked, Write a line to Google Doc Spreadsheet
+If moisture detected, turn on light to wake me when basement floods
+If the front door is opened when I'm not home, turn on alarm via Dropbox
+smartthings
+SmartThings Presence to Pushover
+Log sensors to dropbox
+SWITCHED OFF
+Log (Opened)
+Log (Closed)
+Switch off your SmartThings device when wholesale electricity prices are high
+When Samsung SmartThings detects presence, share a message with an Orion Group
+Server Opened
+9AM Close Curtain & Changing Room Light
+Goodnight All! Tell Alexa to Close All Shades, Turn Off All Lights and Lock The Doors
+Echo lights on
+Let SmartThings dim your room when it's too bright by closing your Somfy-powered shades
+Activate a scene when the brightness of your SmartThings drops below a specified value.
+Activate a scene when the brightness of your SmartThings rises above a specified value.
+Let SmartThings brighten your room when it's too dark by opening your Somfy-powered shades
+Santa detector!
+When Chiekoo Doorbell Button is Pressed, Turn on Hue Light and Activate Smartthings Strobe/Siren
+Turn on the lights when I get home
+lock up after me
+When Chiekoo Doorbell Alert is Accepted, Turn Wemo Smart Plug Off and Deactivate Smartthings Strobe
+Deactivate My SmartThings Strobe and Siren, When Someone Accepts Chiekoo Doorbell Alert Notification
+Switch Canary Security ON via Virtual Switch in SmartThings
+Welcome to a cool home
+If Abode alarm is triggered turn on SmartThings lights
+Disarm When Present
+Turn off Lombex Lights when turning off Smartthings Device
+Unlock your front door when you arrive home
+Turn on Wemo Switch from SmartThings Motion!
+Turn on Lombex LED lights when turning on a Smartthings device
+If smartthings detects presence, stop recording
+TURN OFF: Use SmartThings to turn off Magic Hue Strips and Smart Life
+Turn off a smart things switch with switch off your Harmony Hub connected AV equipment
+Turn off Siren and Strobe
+If smartthings no longer detects presence, start recording
+Tell me if there is movement
+When a device connects to OnHub turn on SmartThings devices
+If alarm is set off, email me
+E-mail Me When Door is Locked
+Blink All Lights - Smartthings
+SmartThings Slack Notification
+When a device disconnects from OnHub control SmartThings devices
+My SmartThings sensor detected motion, start my Manything camera
+When last family member leaves Home, switch off SmartPower Outlet
+If away, change Ecobee to Away.
+Log when Mobile Presence Leaves
+E-mail Me When Door is Unlocked
+When first family member arrives Home, switch on SmartPower Outlet
+Turn on a switch after weigh in.
+If home, resume Ecobee schedule.
+Log when Mobile Presence Arrives
+Deactivate your SmartThings siren/strobe
+Turn off SpotCam alert when you are home
+Turn off a device if power exceeds limit
+Switch ON your Device When NIU is Pressed
+Get notified on Orion when your door opens
+Switch Off SmartThings when you Leave Home
+Switch OFF your Device When NIU is Pressed
+Turn ON Siren / Strobe when NIU is Pressed
+Turn on the light when presence is detected
+Turn off my lights when the system is armed
+Start your room fans when your doors unlock
+Use Mosaic workflow to lock your SmartThings
+Change the light to Cozy if it gets too cold
+Lock your door automatically with SmartThings
+Turn on my lights when the system is disarmed
+Use Mosaic workflow to unlock your SmartThings
+Toggle light on with Dynamic mode using Smartthings virtual switch as trigger
+Use Mosaic workflow to turn on your SmartThings
+Turn on my Nanoleaf lights when I enter the room
+Get a phone call if SmartThings detects moisture
+Use Mosaic workflow to turn off your SmartThings
+Turn on SpotCam when SmartThings device is closed
+Turn on SpotCam when SmartThings device is opened
+Change the light to Cool white if it gets too hot
+If SmartThings multisensor opened then send IF notification
+Switch on device(s)
+Switch off device(s)
+Log door openings detected by your SmartThings to a Google Drive Spreadsheet
+Call and email me when moisture is detected
+Smartthings To Smart Life Lights/Outlets (Turn Off)
+Smartthings To Smart Life Lights/Outlets (Turn On)
+Get a call when you alarm is activated
+Turn off a SmartThings device at sunrise
+If SmartThings sensor opens, Arlo starts recording
+Log Motion Detection
+Tell Alexa to lock your door
+Lock Your Z-Wave Door Lock at a Specific Time
+Get a phone call alert when a door is opened during sleeping hours
+Log Temperature
+Turn off a SmartThings light by voice
+Smart Life to Smartthings Lights/Outlets (Turn Off)
+Send alert when temp too high
+If Nest Cam Senses Motion before 7AM then turn on SmartThings Light
+Time Trigger
+Turn on Magic Home device with a SmartThings switch
+Smart Life to Smartthings Lights/Outlets (Turn On)
+Turn Off Meross From Smartthings
+E-Mail me when there is unexpected motion!
+Leaving the house? Make sure the front door is locked.
+If SmartThings multisensor closed then send an IF notification
+Ring Motion Turn Light on
+When I get close to home, open my MyQ garage via SmartThings
+Ask Alexa to unlock front door when guests arrive
+Automatically turn on the lights at sunset
+Turn off your MagicHue devices with a SmartThings virtual switch
+Turn off every hour
+Unlock device(s)
+Arm Arlo via Smartthings Mode
+Turn on Light when door Unlocks
+Switch on Smarthings device when doorbell pressed
+Click Flic, turn off switch
+Log Closed Door or Window
+Alexa alarm wakeup light
+Alert me via VoIP call when SmartThings Smart Home Monitor detects Intrusion
+Motion Triggers Phone Call
+Disarm Arlo via Smartthings Mode
+Call me if the liquor cabinet opens!
+When Google calendar says "wake" turn bedroom light on via Smartthings
+Turn on your lights when you unlock your door
+If You enter an area, then unlock Back Door
+Turn on TV from SmartThings using AnyMote Android App
+Turn on magichue with smartthings
+Garage Door Open
+Turn on a zwave/smartthings switch
+Use arlo as a motion sensor
+Alexa turn off Sonos speaker
+Presence Control (arrival)
+Arm Arlo When Away
+SmartThings Notification and Write Event
+Garage Door
+Start Sonos when I turn on an a SmartThings device
+Disarm Piper when I come home
+SmartThings Log - Switched On
+Wake up Lights
+Switch on a SmartThings device when motion is detected by SkyBell HD
+Switch on a Smart Thing via email
+Arm Piper when Away
+Get SmartThings alerts when your sensor opens #intruder #alert
+Disarm Blink When You Unlock the Door
+Set ecobee to home when SmartThings detects you've arrived.
+If Mobile Presence leaves, add to spreadsheet.
+Arm Blink with ST when everyone leaves
+Disarm Blink with ST when everyone arrives
+Turn on SmartThings devices when a User arrives
+I'm Coming Home
+Receive a dashboard notification if your SmartThings detects motion
