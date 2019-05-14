@@ -3,7 +3,7 @@ from nltk.corpus import stopwords
 from nltk.corpus import brown
 
 
-smartapptemplate='''
+codeTemplate='''
 definition(
     name: "$name",
     namespace: "smartthings",
@@ -40,19 +40,53 @@ def presenceHandler(evt)
 }
 
 '''
+
+def findMaxSimilarity(word, filename):
+    capFile = open(filename,'r')
+    #获取全部到capability字典
+    capDict = {}
+    for line in capFile:
+        print(line)
+        capArray = line.strip('\n').split(',')
+        if len(capArray) < 3:
+            continue
+        capDict[capArray[0]] = capArray[2:][0].split(' ')
+    # a = capDict['capability.garageDoorControl'][0]
+    # print(capDict)
+
+    
+
 file = open('ifttt-smartthings-when.txt')
 for line in file:
     text = line
     text_list = nltk.word_tokenize(text)
-    #去标点
+    # 去标点
     english_punctuations = [',', '.', ':', ';', '?', '(', ')', '[', ']', '&', '!', '*', '@', '#', '$', '%']
     text_list = [word for word in text_list if word not in english_punctuations]
-    #去停止词
+    # 去停止词
     # stops = set(stopwords.words("english"))
     # text_list = [word for word in text_list if word not in stops]
     cixing = nltk.pos_tag(text_list,tagset='universal')
     print(cixing)
-    for each in cixing:
-        print(each[0])
-    
-    break
+    # 处理when和whenever的位置
+    try:
+        indexOfWhen = text_list.index('when')
+    except ValueError:
+        indexOfWhen = text_list.index('whenever')
+    print(indexOfWhen)
+    beforeWhenArr = text_list[0 : indexOfWhen]
+    afterWhenArr = text_list[indexOfWhen+1 : len(cixing)]
+    cixingBefore = nltk.pos_tag(beforeWhenArr,tagset='universal')
+    cixingAfter = nltk.pos_tag(afterWhenArr,tagset='universal')
+    lenOfCixingBefore = len(beforeWhenArr)
+    lenOfCixingAfter = len(afterWhenArr)
+    index = 0
+    for word, wordcixing in cixingBefore:
+        if(index != lenOfCixingBefore and wordcixing == 'VERB' or wordcixing == 'PRT'):
+            codeTemplate.replace('$name', text)
+            codeTemplate.replace('$description', text)
+            codeTemplate.replace('$capability_action', word)
+            # codeTemplate.replace('$')
+
+        print(word, wordcixing)
+
